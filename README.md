@@ -1,4 +1,3 @@
-# SQL-Data-Extraction
 # SQL Data Extraction using SQLite
 
 ## Project Overview
