@@ -34,8 +34,7 @@ Sample Superstore Dataset
 - `queries.sql` – SQL queries used in the project
 - `README.md` – Project documentation
 
-## Author
-**Anaparthi Amrutha**
+
 **queries.sql**
 -- Display first 10 rows
 SELECT *
@@ -52,4 +51,5 @@ SELECT Category,
 SUM(Sales) AS TotalSales
 FROM SampleSuperstore
 GROUP BY Category;
-
+## Author
+**Anaparthi Amrutha**
